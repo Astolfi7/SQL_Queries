@@ -1,1 +1,1 @@
-# SQL_Queries
+This file is dynamic SQL query that searches through whole database and finds us each column of the whole database with informations to which table it belongs, its schema, the number of records, the number of null values and it's names. It was used with Adventure Works Database but i can be use with any database. It's dynamic so it should work with any database just by changing USE statement. It was written originaly for the Santaros Klinikos University Hospital.
